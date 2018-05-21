@@ -7,3 +7,8 @@ Just create backup spectragram.min.js.bak of original script and replace it with
 Now test InstaFeed code like this:
 
 `<div class="instafeed grid-gallery" data-user-name="<Instagram Account>"><ul></ul></div>`
+
+Example:
+
+![Foundry HTML5 Template Instafeed Example][instafeed]
+[instafeed]:foundry-instafeed-2018-fix/Снимок экрана 2018-05-21 в 16.25.48.png
