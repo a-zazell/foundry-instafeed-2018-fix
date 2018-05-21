@@ -10,6 +10,6 @@ Now test InstaFeed code like this:
 
 Example:
 В сноске:  
-![alt-текст][logo]
+![Fixed Example of Instagram Feed in Foundry Template HTML5][instafeed]
 
-[logo]: https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/foundry-fixed-instafeed.png "Текст заголовка логотипа 2"
+[instafeed]: https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/foundry-fixed-instafeed.png "Текст заголовка логотипа 2"
