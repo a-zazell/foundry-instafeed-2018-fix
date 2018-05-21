@@ -12,4 +12,4 @@ Example:
 В сноске:  
 ![alt-текст][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
+[logo]: https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/foundry-fixed-instafeed.png "Текст заголовка логотипа 2"
