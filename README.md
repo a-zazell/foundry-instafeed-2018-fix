@@ -9,5 +9,7 @@ Now test InstaFeed code like this:
 `<div class="instafeed grid-gallery" data-user-name="<Instagram Account>"><ul></ul></div>`
 
 Example:
+В сноске:  
+![alt-текст][logo]
 
-[alt-text](https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/Снимок%20экрана%202018-05-21%20в%2016.25.48.png "Instafeed")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
