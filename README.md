@@ -11,4 +11,4 @@ Now test InstaFeed code like this:
 Example:
 
 ![Foundry HTML5 Template Instafeed Example][instafeed]
-[instafeed]:https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/Снимок%20экрана%202018-05-21%20в%2016.25.48.png
+[instafeed]: https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/Снимок%20экрана%202018-05-21%20в%2016.25.48.png
