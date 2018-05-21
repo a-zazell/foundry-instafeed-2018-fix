@@ -9,7 +9,6 @@ Now test InstaFeed code like this:
 `<div class="instafeed grid-gallery" data-user-name="<Instagram Account>"><ul></ul></div>`
 
 Example:
-В сноске:  
 ![Fixed Example of Instagram Feed in Foundry Template HTML5][instafeed]
 
-[instafeed]: https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/foundry-fixed-instafeed.png "Текст заголовка логотипа 2"
+[instafeed]: https://github.com/a-zazell/foundry-instafeed-2018-fix/raw/master/foundry-fixed-instafeed.png "Fixed Example of Instagram Feed in Foundry Template HTML5"
